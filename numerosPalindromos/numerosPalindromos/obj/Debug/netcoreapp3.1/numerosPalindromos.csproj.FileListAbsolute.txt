@@ -1,0 +1,13 @@
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\bin\Debug\netcoreapp3.1\numerosPalindromos.exe
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\bin\Debug\netcoreapp3.1\numerosPalindromos.deps.json
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\bin\Debug\netcoreapp3.1\numerosPalindromos.runtimeconfig.json
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\bin\Debug\netcoreapp3.1\numerosPalindromos.runtimeconfig.dev.json
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\bin\Debug\netcoreapp3.1\numerosPalindromos.dll
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\bin\Debug\netcoreapp3.1\numerosPalindromos.pdb
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\obj\Debug\netcoreapp3.1\numerosPalindromos.csproj.AssemblyReference.cache
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\obj\Debug\netcoreapp3.1\numerosPalindromos.AssemblyInfoInputs.cache
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\obj\Debug\netcoreapp3.1\numerosPalindromos.AssemblyInfo.cs
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\obj\Debug\netcoreapp3.1\numerosPalindromos.csproj.CoreCompileInputs.cache
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\obj\Debug\netcoreapp3.1\numerosPalindromos.dll
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\obj\Debug\netcoreapp3.1\numerosPalindromos.pdb
+C:\Users\eliam\source\repos\numerosPalindromos\numerosPalindromos\obj\Debug\netcoreapp3.1\numerosPalindromos.genruntimeconfig.cache
